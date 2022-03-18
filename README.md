@@ -1,5 +1,5 @@
 ## Hello, friend! I'm Danley Alves
-
+## 👋 Hello! Welcome to my Github profile.
 
 - 🌱 I'm a front-end development student who loves technology, programming, and of course, solving problems.
 - 😄 Pronouns: He/Him
@@ -16,7 +16,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/danleycss">
+  <a href="https://github.com/danleyalvex">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danleyalvex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danleyalvex&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -28,4 +28,4 @@
   <a href = "mailto:itsdanleyalves@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danley-alves-a3684a217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <div>
-
+![Snake animation](https://github.com/danleyalvex/danleyalvex/blob/output/github-contribution-grid-snake.svg)
