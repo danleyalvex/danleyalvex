@@ -1,5 +1,5 @@
 ## Hello, friend! I'm Danley Alves
-## 👋 Hello! Welcome to my Github profile.
+👋 Welcome to my Github profile.
 
 - 🌱 I'm a front-end development student who loves technology, programming, and of course, solving problems.
 - 😄 Pronouns: He/Him
