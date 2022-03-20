@@ -1,10 +1,13 @@
-## Hello, friend! I'm Danley Alves
-👋 Welcome to my Github profile.
+
+<div align="center">
+  <h1>Hello, friend! I'm Danley Alves</h1>
+  <h3>👋 Welcome to my Github profile.</h3>
+</div>
 
 - 🌱 I'm a front-end development student who loves technology, programming, and of course, solving problems.
 - 😄 Pronouns: He/Him
 - 👨‍💻 Technologies that I'm currently learning about and using to become a front-end developer.
-
+</div>
 <div style="display: inline_block" align="center">
   <img align="center" alt="dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
