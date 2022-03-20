@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hello, friend! I'm Danley Alves</h1>
-  <h3>👋 Welcome to my Github profile.</h3>
+  <h3>👋 Welcome to my GitHub profile.</h3>
 </div>
 
 - 🌱 I'm a front-end development student who loves technology, programming, and of course, solving problems.
