@@ -69,9 +69,6 @@
 
 <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
 
-  ##
 
-<h3> Visitors </h3>  
 
-<img align="center" alt="javascript" height="30" width="150" src="https://komarev.com/ghpvc/?username=danleyalvex&color=green" alt="danleyalvex" /> <br>
-  </div>
+
