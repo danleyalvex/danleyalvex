@@ -18,21 +18,21 @@
   <a href="https://vimeo.com/itsdanleyalves" target="_blank"><img src="https://img.shields.io/badge/-vimeo-%230077B5?style=for-the-badge&logo=vimeo&logoColor=white" target="_blank"></a>
    <a href="https://www.behance.net/danleyalvex" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23E4405F?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   
-  <div>
+  </div>
     
   
- <div>
+ <div align="center">
 
  <a href="https://github.com/danleyalvex">
 
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danleyalvex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danleyalvex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danleyalvex&layout=compact&langs_count=7&theme=dark"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danleyalvex&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
     
  
-    
+<div align='center'>
     
  <h3> Front-end </h3>
 
@@ -44,7 +44,7 @@
 
  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
 
-  
+  ##
 
 
     
@@ -56,10 +56,12 @@
 
  <img align="center" alt="illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/illustrator/illustrator-plain.svg">
 
+ ##
+  
 <h3>Database</h3>
  <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-plain.svg"><h3>
   
- 
+ ##
     
 <h3> IDE </h3>  
 
@@ -67,9 +69,9 @@
 
 <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
 
+  ##
 
 <h3> Visitors </h3>  
 
-<div>
-  <img align="center" alt="javascript" height="30" width="150" src="https://komarev.com/ghpvc/?username=danleyalvex&color=green" alt="danleyalvex" /> <br>
-</div>  
+<img align="center" alt="javascript" height="30" width="150" src="https://komarev.com/ghpvc/?username=danleyalvex&color=green" alt="danleyalvex" /> <br>
+  </div>
