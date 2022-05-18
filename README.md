@@ -5,24 +5,39 @@
 </div>
 
 - 🌱 I'm a front-end development student who loves technology, programming, and of course, solving problems.
+- 🖥️ Information Systems student </>
+- 🖥️ Recoder Pro 2022 </>
 - 😄 Pronouns: He/Him
 
 
 
 ##
-  
+ <!-- SOCIALS -->
+ 
 <div align="center"> 
-  <a href="https://instagram.com/itsdanleyalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:itsdanleyalves@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danley-alves-a3684a217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://vimeo.com/itsdanleyalves" target="_blank"><img src="https://img.shields.io/badge/-vimeo-%230077B5?style=for-the-badge&logo=vimeo&logoColor=white" target="_blank"></a>
-   <a href="https://www.behance.net/danleyalvex" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23E4405F?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/ezzoki" target="_blank"><img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <br>
+        <a href="https://instagram.com/itsdanleyalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href = "mailto:itsdanleyalves@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/danley-alves-a3684a217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://vimeo.com/itsdanleyalves" target="_blank"><img src="https://img.shields.io/badge/-vimeo-%230077B5?style=for-the-badge&logo=vimeo&logoColor=white" target="_blank"></a>
+         <a href="https://www.behance.net/danleyalvex" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23E4405F?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+        <a href="https://steamcommunity.com/id/ezzoki" target="_blank"><img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+        <br>
   </div>
     
  
-    
+ <!--STATUS-->
+ <div align='center'>
+  	<br>
+ 	<a href="https://github.com/danleyalvex/danleyalvex">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danleyalvex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+	</a>
+	<a href="(https://github.com/danleyalvex/danleyalvex">
+ 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=danleyalvex&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Danley's GitHub Stats" />
+	</a>
+</div>
+
+ 
+ 
  
 <div align='center'>
     
