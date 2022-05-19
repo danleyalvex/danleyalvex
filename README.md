@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" >
   <h1>Hello, friend! I'm Danley Alves</h1>
   <h3>👋 Welcome to my GitHub profile.</h3>
 </div>
@@ -26,14 +26,10 @@
     
  
  <!--STATUS-->
- <div align='center'>
-  	<br>
- 	<a href="https://github.com/danleyalvex/danleyalvex">
-  	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danleyalvex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-	</a>
-	<a href="(https://github.com/danleyalvex/danleyalvex">
- 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=danleyalvex&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Danley's GitHub Stats" />
-	</a>
+<div align="center">
+  <a href="https://github.com/danleyalvex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danleyalvex&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danleyalvex&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
  
