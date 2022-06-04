@@ -44,7 +44,7 @@
 
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 
- <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-plain.svg">
+
 
  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
 
@@ -67,12 +67,23 @@
   
  ##
     
-<h3> IDE </h3>  
+<h3> Tools </h3>  
 
 <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
 
 <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
 
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-plain.svg">
+  
+  ##
+  
+<h3> Projetos </h3>
+  
+[Profile card](https://danleyalvex.github.io/profile-card/)
+  
+[Niterói sem dake](https://danleyalvex.github.io/niteroi-sem-fake/)
 
+[O estoico diário](https://danleyalvex.github.io/estoico-diario/)
+ 
 
 
