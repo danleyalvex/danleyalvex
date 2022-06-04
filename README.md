@@ -81,7 +81,7 @@
   
 [Profile card](https://danleyalvex.github.io/profile-card/)
   
-[Niterói sem dake](https://danleyalvex.github.io/niteroi-sem-fake/)
+[Niterói sem fake](https://danleyalvex.github.io/niteroi-sem-fake/)
 
 [O estoico diário](https://danleyalvex.github.io/estoico-diario/)
  
