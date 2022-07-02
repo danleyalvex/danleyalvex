@@ -83,7 +83,9 @@
   
 [Niterói sem fake](https://danleyalvex.github.io/niteroi-sem-fake/)
 
-[O estoico diário](https://danleyalvex.github.io/seja-estoico/)
+[Ser Estoico](https://danleyalvex.github.io/seja-estoico/)
  
+[Things to do](https://danleyalvex.github.io/things-to-do/)
+
 
 
