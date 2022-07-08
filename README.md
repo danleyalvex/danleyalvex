@@ -8,7 +8,7 @@
 - 🖥️ Information Systems student </>
 - 🖥️ Recoder Pro 2022 </>
 - 😄 Pronouns: He/Him
-- 🥇 100DaysOfCode (06.04.2022 to 9.11.2022)
+
 
 
 
