@@ -4,7 +4,7 @@
   <h3>👋 Welcome to my GitHub profile.</h3>
 </div>
 
-- 🌱 I'm a front-end development student who loves technology, programming, and of course, solving problems.
+- 🌱 I'm Information system student who loves technology, programming, and of course, solving problems.
 - 🖥️ Information Systems student </>
 - 🖥️ Recoder Pro 2022 </>
 - 😄 Pronouns: He/Him
