@@ -79,11 +79,9 @@
   
 <h3> Projetos </h3>
   
-[Profile card](https://danleyalvex.github.io/profile-card/)
-  
 [Niterói sem fake](https://danleyalvex.github.io/niteroi-sem-fake/)
 
-[Ser Estoico](https://danleyalvex.github.io/seja-estoico/)
+[Estoico Society](https://danleyalvex.github.io/estoico-society/)
  
 [Things to do](https://danleyalvex.github.io/things-to-do/)
 
